@@ -1,0 +1,552 @@
+,iid,age,gender,field_of_study,ethnic_group,goal,match,satis_2,length,speed_date_nb
+0,1,21.0,Female,Law,Asian,Meet new people,No,Satisfied,Too much,Too few
+1,2,24.0,Female,Law,Caucasian,For fun,No,Neutral,Too much,Unknown
+2,3,25.0,Female,Math,Caucasian,Other,No,Unknown,Unknown,Unknown
+3,4,23.0,Female,Law,Caucasian,For fun,No,Not satisfied,Just right,Too many
+4,5,21.0,Female,Law,Caucasian,Meet new people,No,Satisfied,Too much,Too many
+5,6,23.0,Female,Law,Asian,For fun,No,Not satisfied,Just right,Too many
+6,7,22.0,Female,Law,Asian,For fun,No,Unknown,Unknown,Unknown
+7,8,25.0,Female,Political Science / International Affairs,Caucasian,For fun,No,Unknown,Unknown,Unknown
+8,9,26.0,Female,Political Science / International Affairs,Other,For fun,No,Satisfied,Too much,Too few
+9,10,26.0,Female,Political Science / International Affairs,Caucasian,Meet new people,No,Not satisfied at all,Too much,Too many
+10,11,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too much,Unknown
+11,12,22.0,Male,Law,Caucasian,For fun,No,Unknown,Unknown,Unknown
+12,13,22.0,Male,Law,Asian,Meet new people,Yes,Very satisfied,Just right,Too few
+13,14,23.0,Male,Law,Caucasian,Meet new people,Yes,Satisfied,Just right,Unknown
+14,15,24.0,Male,Law,Hispanic,For fun,Yes,Very satisfied,Too much,Too few
+15,16,25.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too much,Too few
+16,17,30.0,Male,Political Science / International Affairs,Caucasian,Get a date,No,Neutral,Just right,Too many
+17,18,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Too much,Too few
+18,19,28.0,Male,Business / Econ / Finance,Caucasian,Serious relationship,Yes,Unknown,Unknown,Unknown
+19,20,24.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Unknown,Unknown,Unknown
+20,21,21.0,Female,Engineering,Asian,Other,No,Satisfied,Just right,Just right
+21,22,27.0,Female,"Education, Academia",African American,For fun,No,Satisfied,Just right,Just right
+22,23,21.0,Female,"Social Science, Psychologist",Asian,For fun,No,Satisfied,Too much,Too many
+23,24,27.0,Female,Social Work,Caucasian,Meet new people,No,Not satisfied,Just right,Too many
+24,25,25.0,Female,Social Work,Caucasian,For fun,No,Not satisfied,Too little,Too many
+25,26,23.0,Female,Social Work,Caucasian,For fun,No,Unknown,Unknown,Unknown
+26,27,22.0,Female,"Social Science, Psychologist",Hispanic,For fun,No,Not satisfied,Too little,Too many
+27,28,26.0,Female,"Social Science, Psychologist",Caucasian,Other,No,Unknown,Unknown,Unknown
+28,29,22.0,Female,Social Work,Caucasian,For fun,No,Satisfied,Just right,Too many
+29,30,23.0,Female,Law,Caucasian,For fun,No,Not satisfied,Too little,Just right
+30,31,24.0,Female,Law,Caucasian,For fun,No,Not satisfied,Too little,Too few
+31,32,27.0,Female,"Social Science, Psychologist",Asian,For fun,No,Neutral,Just right,Too many
+32,33,30.0,Female,"Social Science, Psychologist",Caucasian,Other,No,Neutral,Just right,Too many
+33,34,21.0,Female,Business / Econ / Finance,Asian,For fun,No,Satisfied,Too little,Too many
+34,35,25.0,Female,Math,Caucasian,For fun,No,Satisfied,Too little,Too many
+35,36,26.0,Female,Math,Caucasian,Meet new people,No,Not satisfied,Too little,Just right
+36,37,27.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Satisfied,Too little,Too many
+37,38,23.0,Female,Law,African American,For fun,No,Not satisfied at all,Too little,Too many
+38,39,24.0,Female,Law,Hispanic,To say I did it,No,Not satisfied,Too little,Too many
+39,40,25.0,Male,Other,Asian,Meet new people,No,Not satisfied at all,Too little,Too many
+40,41,30.0,Male,Law,Asian,Meet new people,No,Neutral,Just right,Just right
+41,42,23.0,Male,Engineering,Asian,Meet new people,No,Very satisfied,Just right,Just right
+42,43,24.0,Male,Business / Econ / Finance,Caucasian,Other,No,Neutral,Too little,Too many
+43,44,24.0,Male,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Too little,Too many
+44,45,28.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+45,46,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Very satisfied,Just right,Too many
+46,47,30.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Just right,Too many
+47,48,22.0,Male,Undergrad / undecided,Caucasian,For fun,No,Satisfied,Just right,Too many
+48,49,25.0,Male,Business / Econ / Finance,Asian,For fun,No,Satisfied,Just right,Just right
+49,50,27.0,Male,Law,African American,Other,No,Satisfied,Too little,Too many
+50,51,23.0,Male,Law,Caucasian,For fun,No,Neutral,Too little,Too many
+51,52,21.0,Male,Law,Caucasian,For fun,No,Not satisfied,Too little,Too many
+52,53,28.0,Male,"Medical Science, Pharmaceuticals and Bio Tech",Caucasian,Meet new people,No,Very satisfied,Just right,Just right
+53,54,28.0,Male,Business / Econ / Finance,Caucasian,To say I did it,No,Satisfied,Just right,Too many
+54,55,23.0,Male,Law,African American,Other,No,Very satisfied,Too little,Just right
+55,56,23.0,Female,Social Work,Caucasian,For fun,No,Not satisfied at all,Just right,Just right
+56,57,22.0,Female,Social Work,Caucasian,Get a date,No,Not satisfied,Just right,Just right
+57,58,26.0,Female,Other,Other,Other,No,Satisfied,Too little,Too many
+58,59,26.0,Female,Other,Other,Other,No,Unknown,Unknown,Unknown
+59,60,29.0,Female,"Social Science, Psychologist",Other,Serious relationship,Yes,Unknown,Unknown,Unknown
+60,61,28.0,Female,History / Religion / Philosophy,Caucasian,For fun,No,Neutral,Just right,Too many
+61,62,26.0,Female,Law,Hispanic,Meet new people,No,Neutral,Just right,Too many
+62,63,24.0,Female,Law,Asian,Get a date,No,Not satisfied,Just right,Just right
+63,64,27.0,Female,Social Work,Asian,Meet new people,No,Neutral,Too little,Too many
+64,65,23.0,Female,Social Work,Other,Meet new people,No,Neutral,Too little,Too few
+65,66,29.0,Male,Business / Econ / Finance,Hispanic,Meet new people,No,Not satisfied,Too little,Just right
+66,67,22.0,Male,Law,Other,Other,No,Not satisfied,Too little,Too few
+67,68,27.0,Male,English / Creative Writing / Journalisim,African American,To say I did it,No,Not satisfied,Too little,Too many
+68,69,28.0,Male,Business / Econ / Finance,Caucasian,Other,Yes,Not satisfied,Too little,Too few
+69,70,26.0,Male,Business / Econ / Finance,Caucasian,To say I did it,Yes,Satisfied,Just right,Too many
+70,71,21.0,Male,Law,Caucasian,To say I did it,No,Satisfied,Just right,Too many
+71,72,22.0,Male,Engineering,Caucasian,To say I did it,No,Satisfied,Too little,Just right
+72,73,22.0,Male,Business / Econ / Finance,Caucasian,Other,No,Not satisfied at all,Too little,Too many
+73,74,25.0,Male,Engineering,Caucasian,To say I did it,No,Very satisfied,Too little,Too many
+74,75,24.0,Male,Law,Other,Other,No,Not satisfied,Just right,Just right
+75,76,34.0,Female,English / Creative Writing / Journalisim,Caucasian,Meet new people,Yes,Satisfied,Too little,Too many
+76,77,22.0,Female,Social Work,Caucasian,For fun,Yes,Satisfied,Just right,Too many
+77,78,23.0,Female,Social Work,Hispanic,Meet new people,No,Very satisfied,Too little,Too many
+78,79,26.0,Female,Engineering,Asian,Meet new people,No,Unknown,Unknown,Unknown
+79,80,27.0,Female,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Satisfied,Too little,Too many
+80,81,28.0,Female,English / Creative Writing / Journalisim,Caucasian,To say I did it,No,Satisfied,Too little,Just right
+81,82,25.0,Female,"Education, Academia",Other,For fun,Yes,Satisfied,Too little,Too many
+82,83,35.0,Female,Business / Econ / Finance,Hispanic,Meet new people,No,Not satisfied at all,Just right,Just right
+83,84,32.0,Female,Biological Sciences / Chemistry/ Physics,Hispanic,Meet new people,No,Not satisfied,Just right,Too many
+84,85,30.0,Female,Social Work,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+85,86,22.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Not satisfied,Too little,Too many
+86,87,23.0,Female,Social Work,Caucasian,For fun,No,Not satisfied at all,Just right,Too many
+87,88,23.0,Female,Social Work,Caucasian,For fun,No,Not satisfied at all,Just right,Just right
+88,89,27.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Not satisfied at all,Just right,Just right
+89,90,23.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Satisfied,Too little,Too many
+90,91,25.0,Female,Law,Other,For fun,No,Satisfied,Just right,Just right
+91,92,29.0,Female,"Education, Academia",Caucasian,To say I did it,No,Satisfied,Too little,Too many
+92,93,29.0,Female,Engineering,Caucasian,For fun,No,Satisfied,Too little,Too many
+93,94,28.0,Male,Business / Econ / Finance,Asian,Meet new people,Yes,Satisfied,Too little,Too many
+94,95,26.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Too little,Too many
+95,96,26.0,Male,Engineering,Hispanic,For fun,No,Satisfied,Too little,Too many
+96,97,29.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Neutral,Just right,Just right
+97,98,39.0,Male,Social Work,Caucasian,Serious relationship,No,Very satisfied,Too little,Too many
+98,99,28.0,Male,Law,Caucasian,Get a date,No,Neutral,Too much,Too many
+99,100,30.0,Male,Business / Econ / Finance,Other,For fun,No,Very satisfied,Too little,Too many
+100,101,22.0,Male,Business / Econ / Finance,Asian,Get a date,No,Very satisfied,Too little,Too many
+101,102,32.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Very satisfied,Too little,Just right
+102,103,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+103,104,27.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Very satisfied,Too little,Just right
+104,105,25.0,Male,Law,African American,Meet new people,Yes,Satisfied,Too little,Just right
+105,106,22.0,Male,Law,Hispanic,To say I did it,No,Very satisfied,Just right,Just right
+106,107,21.0,Male,History / Religion / Philosophy,Caucasian,For fun,Yes,Very satisfied,Too little,Just right
+107,108,24.0,Male,Engineering,Caucasian,For fun,No,Satisfied,Too little,Too many
+108,109,25.0,Male,Film,Asian,For fun,Yes,Satisfied,Too little,Too many
+109,110,28.0,Male,Film,Caucasian,Meet new people,Yes,Satisfied,Too little,Too many
+110,111,27.0,Male,Business / Econ / Finance,Asian,To say I did it,No,Unknown,Unknown,Unknown
+111,112,20.0,Female,"Social Science, Psychologist",Other,For fun,Yes,Neutral,Too little,Too many
+112,113,21.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Just right,Just right
+113,114,20.0,Female,Business / Econ / Finance,African American,Meet new people,No,Not satisfied,Just right,Too many
+114,115,21.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Just right,Too many
+115,116,21.0,Female,Political Science / International Affairs,Caucasian,For fun,Yes,Satisfied,Just right,Just right
+116,117,21.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Just right,Too few
+117,119,19.0,Female,Languages,Hispanic,For fun,No,Neutral,Too little,Just right
+118,120,20.0,Female,English / Creative Writing / Journalisim,Hispanic,To say I did it,Yes,Not satisfied at all,Too little,Too many
+119,121,21.0,Female,"Social Science, Psychologist",Caucasian,To say I did it,No,Not satisfied,Too little,Just right
+120,122,22.0,Male,Law,Other,For fun,Yes,Neutral,Just right,Just right
+121,123,18.0,Male,Engineering,Asian,Meet new people,No,Neutral,Too little,Too many
+122,124,22.0,Male,Business / Econ / Finance,Asian,Meet new people,No,Satisfied,Too little,Just right
+123,125,21.0,Male,"Medical Science, Pharmaceuticals and Bio Tech",Caucasian,For fun,Yes,Satisfied,Just right,Too many
+124,126,22.0,Male,History / Religion / Philosophy,Caucasian,Serious relationship,Yes,Satisfied,Too little,Just right
+125,127,22.0,Male,Engineering,Caucasian,Other,Yes,Neutral,Too little,Just right
+126,128,21.0,Male,Engineering,Caucasian,For fun,Yes,Neutral,Too little,Too many
+127,129,26.0,Male,Business / Econ / Finance,Caucasian,Get a date,Yes,Satisfied,Just right,Just right
+128,130,20.0,Male,Engineering,Asian,For fun,No,Not satisfied,Too little,Too many
+129,131,19.0,Male,Engineering,Asian,Meet new people,No,Unknown,Unknown,Unknown
+130,132,27.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Too few
+131,133,24.0,Female,Engineering,Asian,For fun,No,Satisfied,Too little,Too few
+132,134,23.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,Yes,Satisfied,Too little,Too few
+133,135,26.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Just right,Just right
+134,136,26.0,Female,Other,Other,Other,No,Unknown,Unknown,Unknown
+135,137,26.0,Male,Business / Econ / Finance,Asian,For fun,No,Unknown,Unknown,Unknown
+136,138,32.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Not satisfied,Too little,Too few
+137,139,37.0,Male,Engineering,Asian,For fun,No,Satisfied,Too little,Too few
+138,140,29.0,Male,Business / Econ / Finance,Caucasian,For fun,Yes,Satisfied,Too little,Just right
+139,141,28.0,Male,Business / Econ / Finance,Hispanic,For fun,No,Neutral,Just right,Just right
+140,142,24.0,Female,Political Science / International Affairs,Caucasian,For fun,No,Very satisfied,Just right,Just right
+141,143,33.0,Female,Law,Caucasian,Meet new people,No,Neutral,Too little,Too many
+142,144,23.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Neutral,Just right,Just right
+143,145,24.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Neutral,Just right,Just right
+144,146,36.0,Female,English / Creative Writing / Journalisim,Caucasian,Serious relationship,No,Unknown,Unknown,Unknown
+145,147,26.0,Female,Business / Econ / Finance,Asian,To say I did it,No,Not satisfied,Just right,Too many
+146,148,27.0,Female,Business / Econ / Finance,Asian,To say I did it,No,Unknown,Unknown,Unknown
+147,149,28.0,Female,Political Science / International Affairs,Caucasian,For fun,No,Satisfied,Too little,Just right
+148,150,31.0,Female,History / Religion / Philosophy,Caucasian,Serious relationship,No,Satisfied,Too little,Too many
+149,151,28.0,Female,Political Science / International Affairs,Caucasian,Get a date,No,Neutral,Too little,Too few
+150,152,27.0,Female,Political Science / International Affairs,Asian,For fun,No,Not satisfied,Just right,Just right
+151,153,28.0,Female,History / Religion / Philosophy,Asian,Meet new people,No,Neutral,Too little,Just right
+152,154,27.0,Female,Business / Econ / Finance,Caucasian,Other,No,Unknown,Unknown,Unknown
+153,155,27.0,Female,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+154,156,30.0,Female,Business / Econ / Finance,African American,Meet new people,No,Very satisfied,Just right,Just right
+155,157,28.0,Female,Business / Econ / Finance,Asian,For fun,No,Not satisfied at all,Too much,Too many
+156,158,23.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Serious relationship,No,Very satisfied,Too little,Too many
+157,159,28.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,Yes,Very satisfied,Too little,Too many
+158,160,29.0,Male,Business / Econ / Finance,African American,Meet new people,No,Satisfied,Just right,Just right
+159,161,22.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Not satisfied,Too little,Just right
+160,162,27.0,Male,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Neutral,Too little,Just right
+161,163,26.0,Male,"Education, Academia",Caucasian,Serious relationship,No,Satisfied,Just right,Too many
+162,164,27.0,Male,History / Religion / Philosophy,Caucasian,For fun,No,Satisfied,Just right,Just right
+163,165,30.0,Male,Political Science / International Affairs,Caucasian,Get a date,No,Very satisfied,Too little,Too many
+164,166,26.0,Male,Business / Econ / Finance,Other,To say I did it,No,Not satisfied at all,Just right,Too many
+165,167,23.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,Yes,Satisfied,Too little,Just right
+166,168,23.0,Male,Biological Sciences / Chemistry/ Physics,Asian,For fun,Yes,Unknown,Unknown,Unknown
+167,169,28.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,Yes,Satisfied,Too little,Too few
+168,170,28.0,Male,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Satisfied,Too little,Too many
+169,171,29.0,Male,Business / Econ / Finance,Caucasian,For fun,Yes,Satisfied,Too little,Just right
+170,172,27.0,Male,Business / Econ / Finance,Caucasian,For fun,Yes,Neutral,Too little,Too many
+171,173,22.0,Male,Math,Caucasian,For fun,Yes,Satisfied,Just right,Just right
+172,174,29.0,Female,Business / Econ / Finance,Asian,Serious relationship,Yes,Satisfied,Too little,Just right
+173,175,23.0,Female,Political Science / International Affairs,Other,Meet new people,No,Neutral,Just right,Too few
+174,176,28.0,Female,Business / Econ / Finance,Asian,Meet new people,Yes,Not satisfied,Just right,Too few
+175,177,22.0,Female,Political Science / International Affairs,Caucasian,Meet new people,No,Satisfied,Just right,Too few
+176,178,35.0,Female,"Social Science, Psychologist",Asian,Meet new people,No,Satisfied,Just right,Just right
+177,179,30.0,Female,English / Creative Writing / Journalisim,Hispanic,For fun,No,Not satisfied at all,Too little,Just right
+178,180,24.0,Female,Business / Econ / Finance,Asian,Other,Yes,Satisfied,Too little,Too few
+179,181,22.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",African American,For fun,No,Satisfied,Too little,Too many
+180,182,22.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",African American,For fun,No,Satisfied,Too little,Just right
+181,183,24.0,Female,Social Work,Caucasian,For fun,Yes,Neutral,Just right,Just right
+182,184,34.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Very satisfied,Just right,Just right
+183,185,25.0,Male,Math,Asian,For fun,No,Satisfied,Just right,Too many
+184,186,24.0,Male,Engineering,Asian,For fun,No,Satisfied,Just right,Just right
+185,187,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Not satisfied,Just right,Just right
+186,188,21.0,Male,Engineering,Caucasian,Meet new people,No,Not satisfied,Too little,Too few
+187,189,27.0,Male,Law,Other,For fun,No,Not satisfied,Just right,Just right
+188,190,25.0,Male,Political Science / International Affairs,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+189,191,28.0,Male,Business / Econ / Finance,Caucasian,To say I did it,No,Neutral,Just right,Just right
+190,192,24.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Unknown,Unknown,Unknown
+191,193,25.0,Male,Law,Asian,For fun,No,Not satisfied,Just right,Too few
+192,194,24.0,Female,"Social Science, Psychologist",Caucasian,Get a date,No,Satisfied,Too little,Just right
+193,195,27.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Very satisfied,Just right,Just right
+194,196,25.0,Female,History / Religion / Philosophy,Asian,For fun,Yes,Not satisfied at all,Just right,Just right
+195,197,24.0,Female,Political Science / International Affairs,Other,For fun,No,Not satisfied,Just right,Too many
+196,198,23.0,Female,Political Science / International Affairs,Asian,Meet new people,No,Unknown,Unknown,Unknown
+197,199,30.0,Female,History / Religion / Philosophy,Caucasian,Serious relationship,No,Satisfied,Just right,Too many
+198,200,25.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Too many
+199,201,25.0,Female,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Too little,Too many
+200,202,22.0,Female,Math,Caucasian,Meet new people,No,Neutral,Just right,Too many
+201,203,22.0,Female,Math,Caucasian,Other,No,Neutral,Just right,Too many
+202,204,26.0,Female,Business / Econ / Finance,Caucasian,Get a date,No,Not satisfied,Too little,Just right
+203,205,23.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Very satisfied,Just right,Just right
+204,206,31.0,Female,Business / Econ / Finance,African American,For fun,No,Unknown,Unknown,Unknown
+205,207,23.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Not satisfied,Just right,Just right
+206,208,25.0,Female,Biological Sciences / Chemistry/ Physics,African American,Meet new people,No,Neutral,Too little,Too many
+207,209,28.0,Female,Political Science / International Affairs,African American,Get a date,No,Unknown,Unknown,Unknown
+208,210,29.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,Yes,Not satisfied,Too little,Too many
+209,211,28.0,Female,Political Science / International Affairs,Caucasian,Meet new people,No,Not satisfied at all,Just right,Too many
+210,212,27.0,Female,Business / Econ / Finance,Hispanic,For fun,No,Satisfied,Too little,Too many
+211,213,25.0,Female,Political Science / International Affairs,Hispanic,Meet new people,No,Not satisfied,Just right,Just right
+212,214,23.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Very satisfied,Just right,Just right
+213,215,26.0,Male,Business / Econ / Finance,Asian,For fun,No,Satisfied,Too little,Too many
+214,216,27.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+215,217,26.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,To say I did it,No,Satisfied,Just right,Just right
+216,218,24.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Not satisfied,Just right,Too many
+217,219,26.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Just right
+218,220,25.0,Male,Political Science / International Affairs,Other,For fun,No,Very satisfied,Too little,Too few
+219,221,27.0,Male,Business / Econ / Finance,Asian,Meet new people,Yes,Neutral,Too little,Too many
+220,222,27.0,Male,Math,Caucasian,Meet new people,No,Neutral,Too little,Too many
+221,223,28.0,Male,History / Religion / Philosophy,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+222,224,32.0,Male,"Social Science, Psychologist",Caucasian,Other,No,Unknown,Unknown,Unknown
+223,225,28.0,Male,Business / Econ / Finance,Hispanic,For fun,No,Satisfied,Too little,Just right
+224,226,23.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Just right,Too many
+225,227,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Neutral,Too little,Too many
+226,228,24.0,Male,Biological Sciences / Chemistry/ Physics,Asian,Get a date,No,Satisfied,Too little,Too many
+227,229,28.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Not satisfied,Too little,Just right
+228,230,42.0,Male,Political Science / International Affairs,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+229,231,30.0,Male,Political Science / International Affairs,Hispanic,For fun,No,Neutral,Too little,Too few
+230,232,31.0,Male,Political Science / International Affairs,Caucasian,Meet new people,No,Very satisfied,Too little,Just right
+231,233,29.0,Male,Political Science / International Affairs,Asian,For fun,No,Very satisfied,Too little,Just right
+232,234,22.0,Female,"Social Science, Psychologist",Other,Get a date,No,Neutral,Too little,Just right
+233,235,23.0,Female,"Education, Academia",Caucasian,For fun,Yes,Not satisfied,Too little,Just right
+234,236,24.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Satisfied,Just right,Just right
+235,237,34.0,Female,History / Religion / Philosophy,Caucasian,Get a date,No,Satisfied,Too little,Just right
+236,238,27.0,Female,Fine Arts / Arts Administration,Caucasian,For fun,No,Satisfied,Too little,Just right
+237,239,34.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Satisfied,Too little,Too few
+238,240,26.0,Female,Business / Econ / Finance,Asian,For fun,No,Not satisfied,Just right,Too few
+239,241,29.0,Female,Business / Econ / Finance,Asian,Meet new people,Yes,Satisfied,Just right,Just right
+240,242,26.0,Female,"Social Science, Psychologist",Hispanic,Get a date,Yes,Satisfied,Just right,Just right
+241,243,27.0,Male,Languages,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+242,244,28.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+243,245,32.0,Male,History / Religion / Philosophy,Caucasian,Serious relationship,No,Not satisfied,Too little,Too few
+244,246,25.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Not satisfied,Just right,Too few
+245,247,25.0,Male,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Neutral,Too little,Too few
+246,248,27.0,Male,Business / Econ / Finance,Other,For fun,No,Satisfied,Just right,Just right
+247,249,33.0,Male,Business / Econ / Finance,Other,Meet new people,No,Very satisfied,Too little,Just right
+248,250,25.0,Male,English / Creative Writing / Journalisim,Other,Serious relationship,No,Satisfied,Too little,Too few
+249,251,33.0,Male,History / Religion / Philosophy,Other,Other,No,Satisfied,Just right,Just right
+250,252,28.0,Female,Political Science / International Affairs,Hispanic,For fun,No,Not satisfied,Too little,Too many
+251,253,33.0,Female,"Social Science, Psychologist",Asian,Meet new people,No,Very satisfied,Too little,Just right
+252,254,22.0,Female,History / Religion / Philosophy,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+253,255,26.0,Female,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Neutral,Too little,Too many
+254,256,24.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",Asian,Meet new people,No,Neutral,Too little,Just right
+255,257,24.0,Female,"Education, Academia",Caucasian,Meet new people,No,Not satisfied at all,Just right,Too many
+256,258,25.0,Female,"Education, Academia",Other,For fun,No,Very satisfied,Just right,Too many
+257,259,25.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Neutral,Too little,Too many
+258,260,27.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Satisfied,Just right,Just right
+259,261,26.0,Female,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Not satisfied,Too little,Just right
+260,262,29.0,Female,"Social Science, Psychologist",Caucasian,Other,No,Satisfied,Just right,Too many
+261,263,26.0,Female,"Social Science, Psychologist",African American,For fun,No,Neutral,Just right,Too many
+262,264,26.0,Female,English / Creative Writing / Journalisim,Caucasian,For fun,No,Neutral,Just right,Just right
+263,265,32.0,Female,Law,Caucasian,Serious relationship,No,Not satisfied at all,Too little,Too many
+264,266,28.0,Female,Languages,Caucasian,Meet new people,No,Not satisfied,Just right,Too many
+265,267,26.0,Female,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Not satisfied at all,Too little,Too many
+266,268,24.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",Hispanic,To say I did it,Yes,Satisfied,Too little,Too many
+267,269,24.0,Female,History / Religion / Philosophy,Caucasian,Meet new people,No,Not satisfied at all,Just right,Just right
+268,270,23.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Satisfied,Too little,Too many
+269,271,23.0,Female,Social Work,Caucasian,Meet new people,No,Satisfied,Just right,Too many
+270,272,25.0,Female,Social Work,Caucasian,Meet new people,No,Satisfied,Just right,Too many
+271,273,29.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Very satisfied,Too little,Too many
+272,274,24.0,Male,"Social Science, Psychologist",Hispanic,Get a date,Yes,Very satisfied,Too little,Too many
+273,275,21.0,Male,Engineering,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+274,276,26.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+275,277,25.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Satisfied,Too little,Too many
+276,278,32.0,Male,Engineering,Caucasian,For fun,No,Very satisfied,Too little,Too few
+277,279,25.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Get a date,No,Satisfied,Just right,Too many
+278,280,25.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Get a date,No,Unknown,Unknown,Unknown
+279,281,27.0,Male,"Social Science, Psychologist",Caucasian,Other,No,Not satisfied,Just right,Just right
+280,282,23.0,Male,Engineering,African American,For fun,No,Satisfied,Just right,Just right
+281,283,27.0,Male,Engineering,Asian,For fun,No,Satisfied,Too little,Too many
+282,284,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Too many
+283,285,24.0,Male,Engineering,Other,Serious relationship,No,Satisfied,Too little,Too many
+284,286,22.0,Male,Math,Caucasian,For fun,No,Satisfied,Too little,Too many
+285,287,22.0,Male,Political Science / International Affairs,Asian,For fun,No,Satisfied,Too little,Too few
+286,288,27.0,Male,"Social Science, Psychologist",Caucasian,For fun,No,Not satisfied,Too little,Too many
+287,289,28.0,Male,Business / Econ / Finance,Asian,For fun,No,Very satisfied,Just right,Just right
+288,290,34.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Neutral,Too little,Just right
+289,291,27.0,Male,Biological Sciences / Chemistry/ Physics,Asian,For fun,Yes,Satisfied,Just right,Too few
+290,292,28.0,Male,Political Science / International Affairs,African American,For fun,No,Satisfied,Too little,Too many
+291,293,28.0,Male,Business / Econ / Finance,Hispanic,Meet new people,No,Not satisfied,Too little,Too many
+292,294,30.0,Female,"Education, Academia",Asian,For fun,No,Satisfied,Too little,Too many
+293,295,30.0,Female,"Education, Academia",Caucasian,Meet new people,No,Satisfied,Too little,Too many
+294,296,28.0,Female,"Education, Academia",Caucasian,For fun,No,Satisfied,Just right,Too many
+295,297,21.0,Female,"Education, Academia",Caucasian,Meet new people,Yes,Not satisfied at all,Just right,Just right
+296,298,22.0,Female,English / Creative Writing / Journalisim,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+297,299,24.0,Female,Social Work,Asian,Meet new people,No,Satisfied,Too little,Just right
+298,300,35.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Very satisfied,Too little,Too many
+299,301,34.0,Female,"Education, Academia",Caucasian,Meet new people,No,Very satisfied,Just right,Just right
+300,302,21.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Neutral,Just right,Just right
+301,303,33.0,Female,"Education, Academia",Caucasian,Serious relationship,No,Satisfied,Too little,Too few
+302,304,28.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Neutral,Just right,Just right
+303,305,29.0,Female,"Education, Academia",Asian,For fun,No,Satisfied,Too little,Too many
+304,306,22.0,Female,"Education, Academia",Asian,For fun,No,Satisfied,Too little,Just right
+305,307,27.0,Female,"Education, Academia",Asian,To say I did it,No,Satisfied,Just right,Just right
+306,308,27.0,Male,"Education, Academia",Asian,For fun,No,Very satisfied,Too little,Too few
+307,309,32.0,Male,"Education, Academia",Caucasian,Get a date,No,Satisfied,Too little,Just right
+308,310,25.0,Male,Engineering,Caucasian,For fun,No,Unknown,Unknown,Unknown
+309,311,29.0,Male,Business / Econ / Finance,Asian,Meet new people,No,Satisfied,Too little,Too many
+310,312,23.0,Male,Fine Arts / Arts Administration,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+311,313,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Just right,Just right
+312,314,32.0,Male,Political Science / International Affairs,Other,Meet new people,No,Very satisfied,Too little,Just right
+313,315,27.0,Male,Engineering,Caucasian,Get a date,No,Unknown,Unknown,Unknown
+314,316,25.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Neutral,Too little,Too many
+315,317,30.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Too little,Just right
+316,318,29.0,Male,Business / Econ / Finance,Other,Meet new people,No,Unknown,Unknown,Unknown
+317,319,26.0,Male,"Education, Academia",Caucasian,Other,No,Very satisfied,Too little,Just right
+318,320,36.0,Male,History / Religion / Philosophy,Caucasian,Serious relationship,No,Not satisfied at all,Just right,Just right
+319,321,29.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Unknown,Unknown,Unknown
+320,322,34.0,Female,"Social Science, Psychologist",Asian,Meet new people,No,Unknown,Unknown,Unknown
+321,323,25.0,Female,Engineering,Asian,Meet new people,Yes,Satisfied,Just right,Just right
+322,324,23.0,Female,"Social Science, Psychologist",Caucasian,For fun,Yes,Satisfied,Just right,Just right
+323,325,30.0,Female,"Social Science, Psychologist",Hispanic,Meet new people,No,Satisfied,Too little,Too few
+324,326,36.0,Female,"Education, Academia",African American,Meet new people,No,Satisfied,Too little,Just right
+325,327,29.0,Female,Political Science / International Affairs,Caucasian,Meet new people,No,Neutral,Just right,Too few
+326,328,30.0,Female,"Education, Academia",Caucasian,Meet new people,No,Not satisfied,Just right,Just right
+327,329,29.0,Female,"Education, Academia",Caucasian,Other,No,Satisfied,Too little,Just right
+328,330,22.0,Female,Engineering,Asian,For fun,No,Satisfied,Just right,Too many
+329,331,34.0,Female,"Education, Academia",Caucasian,For fun,No,Unknown,Unknown,Unknown
+330,332,30.0,Male,"Social Science, Psychologist",Asian,Get a date,No,Very satisfied,Too little,Just right
+331,333,23.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Just right
+332,334,29.0,Male,Business / Econ / Finance,Asian,For fun,No,Satisfied,Too little,Just right
+333,335,24.0,Male,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Too little,Just right
+334,336,25.0,Male,Architechture,Hispanic,For fun,No,Satisfied,Too little,Just right
+335,337,28.0,Male,Engineering,Caucasian,For fun,Yes,Very satisfied,Just right,Just right
+336,338,27.0,Male,Engineering,Other,For fun,No,Satisfied,Just right,Just right
+337,339,26.0,Male,Other,Other,Other,Yes,Satisfied,Too little,Too many
+338,340,26.0,Male,Other,Other,Other,No,Satisfied,Just right,Just right
+339,341,23.0,Female,Political Science / International Affairs,Asian,For fun,No,Satisfied,Just right,Too many
+340,342,33.0,Female,"Education, Academia",Hispanic,For fun,No,Very satisfied,Too little,Too many
+341,343,32.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Get a date,Yes,Satisfied,Too little,Too many
+342,344,26.0,Female,Political Science / International Affairs,Hispanic,Get a date,No,Very satisfied,Just right,Too many
+343,345,24.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Neutral,Just right,Too many
+344,346,26.0,Female,Other,Other,Other,No,Satisfied,Just right,Too many
+345,347,26.0,Female,"Education, Academia",African American,To say I did it,No,Unknown,Unknown,Unknown
+346,348,21.0,Female,"Education, Academia",Asian,Meet new people,No,Satisfied,Too little,Too many
+347,349,33.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Not satisfied,Just right,Too many
+348,350,31.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+349,351,35.0,Female,"Education, Academia",Asian,Meet new people,No,Neutral,Just right,Just right
+350,352,29.0,Female,"Education, Academia",Other,Meet new people,No,Very satisfied,Too little,Too few
+351,353,25.0,Female,"Education, Academia",Asian,For fun,No,Unknown,Unknown,Unknown
+352,354,22.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Too little,Just right
+353,355,24.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Too little,Just right
+354,356,27.0,Female,"Social Science, Psychologist",Caucasian,For fun,No,Satisfied,Too little,Just right
+355,357,27.0,Female,"Education, Academia",Asian,For fun,No,Not satisfied,Just right,Too many
+356,358,26.0,Female,Business / Econ / Finance,Asian,For fun,No,Unknown,Unknown,Unknown
+357,359,26.0,Female,English / Creative Writing / Journalisim,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+358,360,24.0,Female,"Social Science, Psychologist",Other,Meet new people,No,Very satisfied,Too little,Too many
+359,361,34.0,Male,Law,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+360,362,30.0,Male,Law,Caucasian,For fun,No,Very satisfied,Just right,Too many
+361,363,23.0,Male,Engineering,Asian,Get a date,No,Satisfied,Too little,Too many
+362,364,27.0,Male,Business / Econ / Finance,Hispanic,Get a date,No,Satisfied,Too little,Too many
+363,365,30.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Too little,Too many
+364,366,27.0,Male,Business / Econ / Finance,Caucasian,For fun,Yes,Very satisfied,Too little,Too many
+365,367,27.0,Male,Political Science / International Affairs,Caucasian,Get a date,No,Satisfied,Too little,Too many
+366,368,24.0,Male,Political Science / International Affairs,Other,For fun,Yes,Satisfied,Just right,Just right
+367,369,25.0,Male,"Social Science, Psychologist",Caucasian,Meet new people,No,Very satisfied,Too little,Too many
+368,370,28.0,Male,Business / Econ / Finance,Caucasian,Get a date,No,Satisfied,Just right,Too many
+369,371,27.0,Male,Business / Econ / Finance,Caucasian,To say I did it,Yes,Not satisfied,Just right,Too many
+370,372,27.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Neutral,Too little,Too many
+371,373,29.0,Male,Business / Econ / Finance,Hispanic,Meet new people,No,Satisfied,Too little,Too many
+372,374,30.0,Male,Business / Econ / Finance,Asian,Meet new people,No,Satisfied,Too little,Too many
+373,375,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Not satisfied,Just right,Too many
+374,376,25.0,Male,Business / Econ / Finance,Asian,Meet new people,No,Unknown,Unknown,Unknown
+375,377,26.0,Male,Business / Econ / Finance,Asian,For fun,No,Neutral,Just right,Too many
+376,378,29.0,Male,Business / Econ / Finance,Caucasian,Other,No,Not satisfied,Too little,Too many
+377,379,38.0,Female,Business / Econ / Finance,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+378,380,33.0,Female,Film,African American,Meet new people,No,Unknown,Unknown,Unknown
+379,381,24.0,Female,Film,Caucasian,To say I did it,No,Neutral,Too little,Just right
+380,382,28.0,Female,Film,Caucasian,Meet new people,No,Neutral,Just right,Just right
+381,383,27.0,Female,"Education, Academia",Caucasian,Get a date,Yes,Very satisfied,Just right,Just right
+382,384,23.0,Female,"Education, Academia",Caucasian,Meet new people,No,Satisfied,Too little,Just right
+383,385,25.0,Female,"Education, Academia",Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+384,386,26.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,Yes,Satisfied,Just right,Just right
+385,387,25.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Very satisfied,Too little,Too many
+386,388,24.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Not satisfied at all,Just right,Just right
+387,389,21.0,Female,Law,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+388,390,30.0,Female,"Education, Academia",Asian,Other,No,Unknown,Unknown,Unknown
+389,391,28.0,Female,English / Creative Writing / Journalisim,Caucasian,For fun,No,Not satisfied,Too little,Just right
+390,392,26.0,Female,English / Creative Writing / Journalisim,Caucasian,To say I did it,No,Satisfied,Just right,Just right
+391,393,22.0,Female,English / Creative Writing / Journalisim,Caucasian,For fun,Yes,Satisfied,Too little,Just right
+392,394,24.0,Female,English / Creative Writing / Journalisim,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+393,395,33.0,Female,English / Creative Writing / Journalisim,Caucasian,Get a date,No,Neutral,Just right,Too many
+394,396,25.0,Female,Fine Arts / Arts Administration,Asian,Meet new people,No,Satisfied,Too little,Too many
+395,397,24.0,Male,Law,Caucasian,Meet new people,No,Very satisfied,Too little,Just right
+396,398,29.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+397,399,29.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+398,400,26.0,Male,Business / Econ / Finance,Caucasian,To say I did it,Yes,Unknown,Unknown,Unknown
+399,401,31.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Not satisfied at all,Just right,Just right
+400,402,29.0,Male,Math,Asian,Get a date,Yes,Satisfied,Too little,Just right
+401,403,22.0,Male,Engineering,Caucasian,To say I did it,No,Satisfied,Too little,Too many
+402,404,23.0,Male,Engineering,Caucasian,Meet new people,No,Neutral,Too little,Just right
+403,405,30.0,Male,Political Science / International Affairs,African American,Serious relationship,No,Satisfied,Too little,Just right
+404,406,27.0,Male,Business / Econ / Finance,Asian,For fun,No,Satisfied,Just right,Just right
+405,407,24.0,Male,Film,Caucasian,Get a date,No,Satisfied,Just right,Too few
+406,408,24.0,Male,Political Science / International Affairs,Hispanic,Meet new people,No,Neutral,Just right,Too many
+407,409,23.0,Male,Engineering,Caucasian,Meet new people,No,Not satisfied,Too little,Just right
+408,410,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Unknown,Unknown,Unknown
+409,411,34.0,Male,Business / Econ / Finance,Caucasian,Get a date,No,Very satisfied,Too little,Just right
+410,412,27.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Just right,Too many
+411,413,26.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Very satisfied,Just right,Too many
+412,414,29.0,Male,Business / Econ / Finance,Caucasian,Other,No,Unknown,Unknown,Unknown
+413,415,31.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Neutral,Just right,Just right
+414,416,25.0,Female,"Social Science, Psychologist",Hispanic,Other,Yes,Neutral,Just right,Just right
+415,417,29.0,Female,"Social Science, Psychologist",Caucasian,For fun,Yes,Satisfied,Too little,Too few
+416,418,25.0,Female,Law,Asian,Other,No,Satisfied,Just right,Too few
+417,419,28.0,Female,Social Work,Caucasian,Serious relationship,Yes,Unknown,Unknown,Unknown
+418,420,22.0,Female,Social Work,Caucasian,To say I did it,Yes,Very satisfied,Just right,Just right
+419,421,25.0,Female,Social Work,Asian,For fun,No,Neutral,Just right,Just right
+420,422,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Satisfied,Just right,Too few
+421,423,30.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Satisfied,Too little,Too few
+422,424,24.0,Male,Engineering,Asian,Meet new people,Yes,Unknown,Unknown,Unknown
+423,425,28.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+424,426,24.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Unknown,Unknown,Unknown
+425,427,28.0,Male,Political Science / International Affairs,Caucasian,For fun,No,Unknown,Unknown,Unknown
+426,428,27.0,Male,Business / Econ / Finance,Asian,Get a date,Yes,Satisfied,Just right,Too few
+427,429,27.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Satisfied,Too little,Just right
+428,430,22.0,Female,"Education, Academia",Asian,For fun,No,Not satisfied,Too little,Too many
+429,431,27.0,Female,"Education, Academia",Asian,Meet new people,No,Satisfied,Too little,Just right
+430,432,28.0,Female,Social Work,Caucasian,Serious relationship,No,Very satisfied,Too little,Just right
+431,433,30.0,Female,Fine Arts / Arts Administration,Other,Meet new people,No,Satisfied,Too little,Too many
+432,434,27.0,Female,Social Work,Caucasian,For fun,No,Satisfied,Just right,Too many
+433,435,22.0,Female,Law,African American,For fun,No,Not satisfied,Just right,Too many
+434,436,23.0,Female,Law,Caucasian,For fun,No,Satisfied,Just right,Just right
+435,437,23.0,Female,Social Work,Caucasian,For fun,No,Neutral,Too little,Just right
+436,438,23.0,Female,Social Work,Caucasian,For fun,No,Very satisfied,Just right,Just right
+437,439,29.0,Female,"Education, Academia",Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+438,440,21.0,Male,Law,Caucasian,For fun,No,Not satisfied,Too little,Too few
+439,441,24.0,Male,Law,Caucasian,Meet new people,No,Satisfied,Too little,Just right
+440,442,25.0,Male,Law,Caucasian,Serious relationship,No,Very satisfied,Just right,Too few
+441,443,27.0,Male,Political Science / International Affairs,Hispanic,Meet new people,No,Satisfied,Too little,Too many
+442,444,26.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Neutral,Just right,Just right
+443,445,30.0,Male,Political Science / International Affairs,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+444,446,28.0,Male,Business / Econ / Finance,Hispanic,For fun,No,Unknown,Unknown,Unknown
+445,447,26.0,Male,Political Science / International Affairs,Asian,For fun,No,Not satisfied,Too little,Too many
+446,448,22.0,Male,Law,Caucasian,For fun,No,Satisfied,Just right,Just right
+447,449,23.0,Male,Law,Other,For fun,No,Very satisfied,Too little,Just right
+448,450,25.0,Male,Political Science / International Affairs,Caucasian,Meet new people,No,Satisfied,Just right,Too few
+449,451,30.0,Male,Business / Econ / Finance,Asian,Meet new people,No,Satisfied,Too little,Just right
+450,452,29.0,Male,Business / Econ / Finance,Asian,For fun,No,Satisfied,Too little,Just right
+451,453,27.0,Male,Law,Asian,Meet new people,No,Unknown,Unknown,Unknown
+452,454,27.0,Female,Fine Arts / Arts Administration,Caucasian,Meet new people,No,Neutral,Too little,Too few
+453,455,24.0,Female,Biological Sciences / Chemistry/ Physics,Asian,For fun,No,Neutral,Too little,Just right
+454,456,29.0,Female,Business / Econ / Finance,Asian,Meet new people,Yes,Not satisfied,Too little,Too few
+455,457,55.0,Female,English / Creative Writing / Journalisim,Asian,Other,No,Not satisfied,Too little,Just right
+456,458,29.0,Female,Business / Econ / Finance,Asian,For fun,No,Not satisfied,Just right,Just right
+457,459,26.0,Female,Business / Econ / Finance,Asian,For fun,No,Unknown,Unknown,Unknown
+458,460,33.0,Male,History / Religion / Philosophy,Caucasian,For fun,No,Unknown,Unknown,Unknown
+459,461,27.0,Male,Engineering,Other,For fun,No,Neutral,Just right,Too few
+460,462,33.0,Male,Engineering,Asian,Serious relationship,No,Not satisfied at all,Too little,Too few
+461,463,23.0,Male,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Neutral,Too little,Too many
+462,464,33.0,Male,Business / Econ / Finance,Asian,For fun,No,Neutral,Too little,Too few
+463,465,23.0,Male,History / Religion / Philosophy,Caucasian,Other,No,Unknown,Unknown,Unknown
+464,466,24.0,Female,Other,Caucasian,Other,No,Not satisfied at all,Too little,Too many
+465,467,24.0,Female,Business / Econ / Finance,Caucasian,Other,Yes,Not satisfied,Just right,Just right
+466,468,25.0,Female,Political Science / International Affairs,Other,For fun,No,Neutral,Just right,Just right
+467,469,25.0,Female,Political Science / International Affairs,Asian,Meet new people,No,Not satisfied,Too much,Too many
+468,470,29.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",Asian,For fun,No,Not satisfied at all,Just right,Too many
+469,471,30.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",Asian,Meet new people,No,Not satisfied at all,Just right,Too many
+470,472,25.0,Female,Engineering,Hispanic,Meet new people,No,Neutral,Just right,Just right
+471,473,34.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Very satisfied,Just right,Just right
+472,474,30.0,Female,Biological Sciences / Chemistry/ Physics,African American,For fun,No,Satisfied,Just right,Just right
+473,475,27.0,Female,Political Science / International Affairs,Hispanic,For fun,No,Satisfied,Just right,Too many
+474,476,25.0,Female,Political Science / International Affairs,Caucasian,To say I did it,No,Unknown,Unknown,Unknown
+475,477,27.0,Female,Engineering,Hispanic,For fun,No,Very satisfied,Too little,Just right
+476,478,26.0,Female,Political Science / International Affairs,Caucasian,For fun,No,Unknown,Unknown,Unknown
+477,479,27.0,Female,Political Science / International Affairs,Caucasian,For fun,No,Unknown,Unknown,Unknown
+478,480,26.0,Female,Engineering,Caucasian,For fun,No,Not satisfied,Just right,Just right
+479,481,23.0,Male,"Education, Academia",Caucasian,Meet new people,No,Satisfied,Too little,Just right
+480,482,30.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Satisfied,Just right,Just right
+481,483,28.0,Male,"Social Science, Psychologist",Caucasian,Other,No,Very satisfied,Too little,Just right
+482,484,31.0,Male,Other,Asian,For fun,No,Very satisfied,Just right,Too many
+483,485,29.0,Male,"Social Science, Psychologist",African American,Meet new people,No,Very satisfied,Too little,Just right
+484,486,32.0,Male,Biological Sciences / Chemistry/ Physics,Hispanic,Get a date,No,Neutral,Too little,Just right
+485,487,24.0,Male,English / Creative Writing / Journalisim,Asian,For fun,No,Neutral,Too little,Just right
+486,488,29.0,Male,Business / Econ / Finance,Asian,Get a date,No,Satisfied,Just right,Just right
+487,489,28.0,Male,Business / Econ / Finance,Caucasian,Get a date,No,Satisfied,Too little,Just right
+488,490,29.0,Male,Film,Caucasian,Meet new people,No,Very satisfied,Too little,Just right
+489,491,29.0,Male,Business / Econ / Finance,Hispanic,Meet new people,No,Very satisfied,Just right,Just right
+490,492,30.0,Male,Biological Sciences / Chemistry/ Physics,Other,Meet new people,No,Satisfied,Just right,Too many
+491,493,20.0,Male,Political Science / International Affairs,Asian,To say I did it,No,Very satisfied,Just right,Just right
+492,494,30.0,Male,English / Creative Writing / Journalisim,Caucasian,Serious relationship,No,Satisfied,Too little,Just right
+493,495,32.0,Male,Fine Arts / Arts Administration,Other,Meet new people,No,Satisfied,Too little,Too few
+494,496,23.0,Female,Engineering,Asian,For fun,No,Not satisfied,Just right,Too few
+495,497,24.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Unknown,Unknown,Unknown
+496,498,25.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,No,Unknown,Unknown,Unknown
+497,499,26.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,To say I did it,No,Not satisfied,Just right,Too few
+498,500,25.0,Female,Biological Sciences / Chemistry/ Physics,African American,For fun,No,Not satisfied,Just right,Too few
+499,501,26.0,Female,Biological Sciences / Chemistry/ Physics,Caucasian,To say I did it,No,Neutral,Just right,Too few
+500,502,26.0,Male,Engineering,Asian,For fun,No,Satisfied,Too little,Just right
+501,503,25.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,To say I did it,No,Not satisfied,Too little,Just right
+502,504,23.0,Male,Engineering,Caucasian,Meet new people,No,Not satisfied at all,Too little,Too few
+503,505,27.0,Male,English / Creative Writing / Journalisim,Asian,Get a date,Yes,Unknown,Unknown,Unknown
+504,506,24.0,Male,Math,Asian,For fun,No,Not satisfied at all,Too little,Too few
+505,507,24.0,Male,Math,Asian,To say I did it,No,Not satisfied,Too little,Just right
+506,508,36.0,Male,Math,Asian,Get a date,No,Satisfied,Too little,Too few
+507,509,28.0,Female,English / Creative Writing / Journalisim,Asian,Meet new people,No,Neutral,Too little,Too many
+508,510,26.0,Female,Business / Econ / Finance,Hispanic,Meet new people,No,Satisfied,Too little,Just right
+509,511,23.0,Female,Engineering,Asian,Meet new people,No,Satisfied,Too little,Too many
+510,512,26.0,Female,Fine Arts / Arts Administration,Caucasian,For fun,No,Satisfied,Just right,Too many
+511,513,23.0,Female,Fine Arts / Arts Administration,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+512,514,23.0,Female,"Social Science, Psychologist",Caucasian,Meet new people,No,Satisfied,Too little,Too many
+513,515,23.0,Female,English / Creative Writing / Journalisim,Caucasian,For fun,No,Not satisfied at all,Too little,Too many
+514,516,27.0,Female,Biological Sciences / Chemistry/ Physics,Asian,Meet new people,No,Not satisfied,Too little,Just right
+515,517,30.0,Female,Fine Arts / Arts Administration,Hispanic,To say I did it,No,Not satisfied at all,Too little,Too many
+516,518,23.0,Female,Fine Arts / Arts Administration,Caucasian,To say I did it,No,Satisfied,Just right,Too many
+517,519,26.0,Female,"Education, Academia",Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+518,520,28.0,Female,Social Work,Other,For fun,No,Neutral,Just right,Too many
+519,521,26.0,Female,Social Work,Caucasian,For fun,No,Satisfied,Too little,Too many
+520,522,22.0,Female,Law,Caucasian,For fun,No,Satisfied,Just right,Too many
+521,523,27.0,Female,"Education, Academia",Asian,Meet new people,No,Not satisfied,Too little,Just right
+522,524,25.0,Female,"Medical Science, Pharmaceuticals and Bio Tech",Asian,Meet new people,Yes,Very satisfied,Just right,Just right
+523,525,24.0,Female,Fine Arts / Arts Administration,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+524,526,26.0,Female,Social Work,Hispanic,For fun,No,Not satisfied,Too much,Too many
+525,527,24.0,Female,Social Work,Other,For fun,No,Neutral,Too little,Too many
+526,528,29.0,Female,Social Work,Hispanic,Meet new people,No,Not satisfied,Too little,Too many
+527,529,22.0,Female,Engineering,Asian,Meet new people,No,Neutral,Just right,Just right
+528,530,22.0,Female,Engineering,Asian,Meet new people,No,Very satisfied,Too little,Too few
+529,531,25.0,Male,Engineering,Asian,Meet new people,No,Not satisfied,Too little,Too many
+530,532,26.0,Male,Engineering,Asian,For fun,No,Unknown,Unknown,Unknown
+531,533,26.0,Male,Engineering,Caucasian,Meet new people,No,Satisfied,Too little,Too many
+532,534,24.0,Male,Engineering,Other,Get a date,No,Satisfied,Too little,Too many
+533,535,23.0,Male,Biological Sciences / Chemistry/ Physics,Caucasian,For fun,Yes,Satisfied,Too little,Just right
+534,536,29.0,Male,Math,Caucasian,For fun,No,Satisfied,Just right,Just right
+535,537,22.0,Male,Engineering,Asian,For fun,Yes,Not satisfied,Too little,Too many
+536,538,32.0,Male,Engineering,Caucasian,For fun,Yes,Not satisfied,Just right,Too many
+537,539,22.0,Male,Law,Caucasian,For fun,No,Very satisfied,Just right,Too many
+538,540,24.0,Male,Engineering,Caucasian,For fun,No,Satisfied,Too little,Too many
+539,541,23.0,Male,Engineering,Asian,Get a date,No,Not satisfied,Too little,Just right
+540,542,23.0,Male,Engineering,Asian,Meet new people,No,Satisfied,Too little,Just right
+541,543,24.0,Male,Engineering,Asian,For fun,No,Not satisfied,Just right,Just right
+542,544,23.0,Male,Engineering,Asian,For fun,No,Satisfied,Too little,Just right
+543,545,24.0,Male,Engineering,Caucasian,For fun,No,Not satisfied,Just right,Just right
+544,546,30.0,Male,Business / Econ / Finance,Caucasian,Meet new people,Yes,Very satisfied,Too little,Too many
+545,547,30.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Unknown,Unknown,Unknown
+546,548,30.0,Male,Business / Econ / Finance,Caucasian,For fun,Yes,Not satisfied,Just right,Too many
+547,549,28.0,Male,Business / Econ / Finance,Caucasian,For fun,No,Satisfied,Too little,Too many
+548,550,30.0,Male,Business / Econ / Finance,Caucasian,Meet new people,No,Very satisfied,Just right,Just right
+549,551,27.0,Male,Business / Econ / Finance,African American,For fun,No,Not satisfied,Too little,Too many
+550,552,25.0,Male,Other,Caucasian,For fun,Yes,Neutral,Too little,Too many
