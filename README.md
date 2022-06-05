@@ -1,4 +1,4 @@
-# Speed Dating Ewperiment 
+# Speed Dating Experiment 
 
 A Plotly Dash app to explore a speed dating experiment dataset distribution and participants level of satisfaction.
 
